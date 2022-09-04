@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelFrontendPresets\TailwindCssPreset;
+namespace RaviyaTechnical\TailwindCssPreset;
 
 use Illuminate\Container\Container;
 use Illuminate\Filesystem\Filesystem;

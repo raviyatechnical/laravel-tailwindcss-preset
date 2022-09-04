@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelFrontendPresets\TailwindCssPreset;
+namespace RaviyaTechnical\TailwindCssPreset;
 
 use Illuminate\Support\ServiceProvider;
 use Laravel\Ui\UiCommand;

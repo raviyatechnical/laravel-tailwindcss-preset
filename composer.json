@@ -1,10 +1,12 @@
 {
-  "name": "raviyatechnical/tailwindcss",
+  "name": "raviyatechnical/laravel-ui-tailwindcss",
   "description": "Laravel frontend preset for Tailwind CSS",
   "keywords": [
     "laravel",
     "preset",
-    "tailwindcss"
+    "tailwindcss",
+    "authentication",
+    "laravel-ui"
   ],
   "license": "MIT",
   "require": {
@@ -13,13 +15,13 @@
   },
   "autoload": {
     "psr-4": {
-      "LaravelFrontendPresets\\TailwindCssPreset\\": "src/"
+      "RaviyaTechnical\\TailwindCssPreset\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "LaravelFrontendPresets\\TailwindCssPreset\\TailwindCssPresetServiceProvider"
+        "RaviyaTechnical\\TailwindCssPreset\\TailwindCssPresetServiceProvider"
       ]
     }
   }
