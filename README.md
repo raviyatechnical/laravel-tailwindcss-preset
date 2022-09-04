@@ -58,3 +58,6 @@ Laravel now supports Tailwind CSS pagination directly. If you would like to use 
 ![Dashboard](/screenshots/dashboard.png)
 
 ![Verify](/screenshots/verify.png)
+
+First Inspiration of 
+https://github.com/laravel-frontend-presets/tailwindcss
