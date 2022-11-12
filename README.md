@@ -5,7 +5,7 @@ A Laravel front-end scaffolding preset for [Tailwind CSS](https://tailwindcss.co
 ## Usage
 
 1. Fresh install Laravel >= 9.0 and `cd` to your app.
-2. Install this preset via `composer require raviyatechnical/tailwindcss --dev`. Laravel will automatically discover this package. No need to register the service provider.
+2. Install this preset via `composer require raviyatechnical/laravel-ui-tailwindcss --dev`. Laravel will automatically discover this package. No need to register the service provider.
 
 ### a. For Presets without Authentication
 

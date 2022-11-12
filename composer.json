@@ -24,5 +24,6 @@
         "RaviyaTechnical\\TailwindCssPreset\\TailwindCssPresetServiceProvider"
       ]
     }
-  }
+  },
+  "minimum-stability": "dev"
 }
